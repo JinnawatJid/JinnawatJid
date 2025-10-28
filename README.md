@@ -26,12 +26,6 @@
   
   <br>
   
-  <a href="https://www.youtube.com/watch?v=5qap5aO4i9A">
-    <img src="https://img.youtube.com/vi/5qap5aO4i9A/0.jpg" alt="lofi hip hop radio - beats to relax/study to" width="400px">
-  </a>
-
-  <br><br>
-  
   ---
   
   <br>
