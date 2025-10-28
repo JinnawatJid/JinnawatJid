@@ -3,10 +3,7 @@
 [![Jinnawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinnawatJid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinnawatJid&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,postgres,docker" />
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=Node.js, React, Next.js, Express, Vue.js" />
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JinnawatJid&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
