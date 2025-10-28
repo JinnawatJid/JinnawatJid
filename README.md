@@ -1,8 +1,8 @@
 <div align="center">
   
-  <a href="https://github.com/JinnawatJid">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi!%2C+I'm+Jinnawat!+%F0%9F%91%8B;Full-Stack+Developer;based+in+Thailand!;Welcome+to+my+Code-Space!+%F0%9F%9A%80" alt="TypING SVG" />
-  </a>
+<a href="https://github.com/JinnawatJid">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi!%2C+I'm+Jinnawat!+%F0%9F%91%8B;Full-Stack+Developer;based+in+Thailand!;Welcome+to+my+Code-Space!+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
   
   <blockquote>"Somewhere, something incredible is waiting to be known." – Sharon Begley</blockquote>
   
