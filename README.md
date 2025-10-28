@@ -1,21 +1,5 @@
-```
-                                                                                                   ,---,  
-         ,---._                                                                                 ,`--.' |  
-       .-- -.' \                                                                         ___    |   :  :  
-       |    |   :  ,--,                                                                ,--.'|_  '   '  ;  
-       :    ;   |,--.'|         ,---,      ,---,                     .---.             |  | :,' |   |  |  
-       :        ||  |,      ,-+-. /  | ,-+-. /  |                   /. ./|             :  : ' : '   :  ;  
-       |    :   :`--'_     ,--.'|'   |,--.'|'   |  ,--.--.       .-'-. ' |  ,--.--.  .;__,'  /  |   |  '  
-       :         ,' ,'|   |   |  ,"' |   |  ,"' | /       \     /___/ \: | /       \ |  |   |   '   :  |  
-       |    ;   |'  | |   |   | /  | |   | /  | |.--.  .-. | .-'.. '   ' ..--.  .-. |:__,'| :   ;   |  ;  
-   ___ l         |  | :   |   | |  | |   | |  | | \__\/: . ./___/ \:     ' \__\/: . .  '  : |__ `---'. |  
- /    /\    J   :'  : |__ |   | |  |/|   | |  |/  ," .--.; |.   \  ' .\    ," .--.; |  |  | '.'| `--..`;  
-/  ../  `..-    ,|  | '.'||   | |--' |   | |--'  /  /  ,.  | \   \   ' \ |/  /  ,.  |  ;  :    ;.--,_     
-\    \         ; ;  :    ;|   |/     |   |/     ;  :   .'   \ \   \  |--";  :   .'   \ |  ,   / |    |`.  
- \    \      ,'  |  ,   / '---'      '---'      |  ,     .-./  \   \ |   |  ,     .-./  ---`-'  `-- -`, ; 
-  "---....--'     ---`-'                         `--`---'       '---"     `--`---'                '---`"  
-                                                                                                          
-```
+Hi there 👋
+
 [![Jinnawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinnawatJid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinnawatJid&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
