@@ -10,18 +10,9 @@
 
   <br>
 
-  <h3>👨‍🚀 My Mission Log</h3>
-  <p>
-    I'm a developer navigating the cosmos of code, turning caffeine into clean, scalable applications.<br>
-    🔭 I’m currently charting the stars of <b>[Your Next Big Thing, e.g., Rust, Go, or AI]</b>.<br>
-    🤝 I’m looking to collaborate on interstellar open-source projects.<br>
-    🛰️ Ask me about <b>Vue, TypeScript, Firebase, and anything space-related</b>!<br>
-    ⚡ Fun fact: My code is probably closer to the moon than it is to the center of the Earth... horizontally.
-  </p>
-
   <br>
   
-  <h3>🚀 My Rocket-Building Toolkit</h3>
+  <h3>🚀 My Toolkit</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=vue,vite,pinia,tailwind,express,nodejs,figma,firebase" />
   </p>
