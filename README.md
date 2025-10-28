@@ -13,6 +13,8 @@
     🎮 <b>playing:</b> Sid Meier's Civilization VI<br>
     📺 <b>watching:</b> Formula 1 Drive to Survive
   </p>
+
+  <br>
     
   ---
   
