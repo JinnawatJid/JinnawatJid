@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://live.staticflickr.com/65535/52259221868_53dae692b6_h.jpg" alt="James Webb Carina Nebula 'Cosmic Cliffs' Banner" height="200px"/>
+  <img src="https://live.staticflickr.com/65535/52259221868_53dae692b6_h.jpg" alt="James Webb Carina Nebula 'Cosmic Cliffs' Banner" width="400px"/>
   
   <br>
   
