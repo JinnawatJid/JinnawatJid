@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://live.staticflickr.com/65535/52259221868_53dae692b6_h.jpg" alt="James Webb Carina Nebula 'Cosmic Cliffs' Banner" height="auto" width="800px"/>
+  <img src="https://live.staticflickr.com/65535/52259221868_53dae692b6_h.jpg" alt="James Webb Carina Nebula 'Cosmic Cliffs' Banner" width="800px" height="200px" style="object-fit: cover; object-position: center;"/>
   
   <br>
   
@@ -12,37 +12,25 @@
 
   <br>
   
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        
-        <h3>👨‍🚀 currently...</h3>
-        <p>
-          🎧 <b>listening to:</b> Hopes And Fears - Keane<br>
-          📖 <b>reading:</b> A Study in Scarlet<br>
-          🎮 <b>playing:</b> Sid Meier's Civilization VI<br>
-          📺 <b>watching:</b> Formula 1 Drive to Survive
-        </p>
-        
-        <br>
-        
-        <a href="https://www.youtube.com/watch?v=5qap5aO4i9A">
-          <img src="https://img.youtube.com/vi/5qap5aO4i9A/0.jpg" alt="lofi hip hop radio - beats to relax/study to">
-        </a>
-        
-      </td>
-      
-      <td width="50%" valign="top" align="center">
-        
-        <img src="https://i.pinimg.com/originals/8a/a4/0c/8aa40c49a15f3e4381503b417b63f684.gif" alt="Astronaut floating in space" width="90%"/>
-        
-        <br>
-        
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://i.pinimg.com/originals/8a/a4/0c/8aa40c49a15f3e4381503b417b63f684.gif" alt="Astronaut floating in space" width="400px"/>
+  
   <br>
+  
+  <h3>👨‍🚀 currently...</h3>
+  <p>
+    🎧 <b>listening to:</b> Hopes And Fears - Keane<br>
+    📖 <b>reading:</b> A Study in Scarlet<br>
+    🎮 <b>playing:</b> Sid Meier's Civilization VI<br>
+    📺 <b>watching:</b> Formula 1 Drive to Survive
+  </p>
+  
+  <br>
+  
+  <a href="https://www.youtube.com/watch?v=5qap5aO4i9A">
+    <img src="https://img.youtube.com/vi/5qap5aO4i9A/0.jpg" alt="lofi hip hop radio - beats to relax/study to" width="400px">
+  </a>
+
+  <br><br>
   
   ---
   
