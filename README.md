@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://live.staticflickr.com/65535/52259221868_53dae692b6_h.jpg" alt="James Webb Carina Nebula 'Cosmic Cliffs' Banner"/>
+  <img src="https://live.staticflickr.com/65535/52259221868_53dae692b6_h.jpg" alt="James Webb Carina Nebula 'Cosmic Cliffs' Banner" height="200px"/>
   
   <br>
   
@@ -37,7 +37,8 @@
         <img src="https://i.pinimg.com/originals/8a/a4/0c/8aa40c49a15f3e4381503b417b63f684.gif" alt="Astronaut floating in space" width="90%"/>
         
         <br>
-                </td>
+        
+      </td>
     </tr>
   </table>
 
