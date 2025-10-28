@@ -1,11 +1,26 @@
-## Hi there 👋
-
+```
+                                                                                                   ,---,  
+         ,---._                                                                                 ,`--.' |  
+       .-- -.' \                                                                         ___    |   :  :  
+       |    |   :  ,--,                                                                ,--.'|_  '   '  ;  
+       :    ;   |,--.'|         ,---,      ,---,                     .---.             |  | :,' |   |  |  
+       :        ||  |,      ,-+-. /  | ,-+-. /  |                   /. ./|             :  : ' : '   :  ;  
+       |    :   :`--'_     ,--.'|'   |,--.'|'   |  ,--.--.       .-'-. ' |  ,--.--.  .;__,'  /  |   |  '  
+       :         ,' ,'|   |   |  ,"' |   |  ,"' | /       \     /___/ \: | /       \ |  |   |   '   :  |  
+       |    ;   |'  | |   |   | /  | |   | /  | |.--.  .-. | .-'.. '   ' ..--.  .-. |:__,'| :   ;   |  ;  
+   ___ l         |  | :   |   | |  | |   | |  | | \__\/: . ./___/ \:     ' \__\/: . .  '  : |__ `---'. |  
+ /    /\    J   :'  : |__ |   | |  |/|   | |  |/  ," .--.; |.   \  ' .\    ," .--.; |  |  | '.'| `--..`;  
+/  ../  `..-    ,|  | '.'||   | |--' |   | |--'  /  /  ,.  | \   \   ' \ |/  /  ,.  |  ;  :    ;.--,_     
+\    \         ; ;  :    ;|   |/     |   |/     ;  :   .'   \ \   \  |--";  :   .'   \ |  ,   / |    |`.  
+ \    \      ,'  |  ,   / '---'      '---'      |  ,     .-./  \   \ |   |  ,     .-./  ---`-'  `-- -`, ; 
+  "---....--'     ---`-'                         `--`---'       '---"     `--`---'                '---`"  
+                                                                                                          
+```
 [![Jinnawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinnawatJid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinnawatJid&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://skillicons.dev/icons?i=vue,vite,pinia,tailwind,express,nodejs,figma,firebase" />
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JinnawatJid&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **JinnawatJid/JinnawatJid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
