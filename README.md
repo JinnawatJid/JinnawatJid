@@ -1,20 +1,14 @@
 <div align="center">
   
-  <img src="https://live.staticflickr.com/65535/52259221868_53dae692b6_h.jpg" alt="James Webb Carina Nebula 'Cosmic Cliffs' Banner" width="800px" height="200px" style="object-fit: cover; object-position: center;"/>
+  <img src="https://live.staticflickr.com/65535/52259221868_53dae692b6_h.jpg" alt="James Webb Carina Nebula 'Cosmic Cliffs' Banner" width="800px" />
   
   <br>
   
   <a href="https://github.com/JinnawatJid">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi!%2C+I'm+Jinnawat!+%F0%9F%91%8B;Full-Stack+Developer;based+in+Thailand!;Welcome+to+my+Code-Space!+%F0%9F%9A%80" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi!%2C+I'm+Jinnawat!+%F0%9F%91%8B;Full-Stack+Developer;based+in+Thailand!;Welcome+to+my+Code-Space!+%F0%9F%9A%80" alt="TypING SVG" />
   </a>
   
   <blockquote>"Somewhere, something incredible is waiting to be known." – Sharon Begley</blockquote>
-
-  <br>
-  
-  <img src="https://i.pinimg.com/originals/8a/a4/0c/8aa40c49a15f3e4381503b417b63f684.gif" alt="Astronaut floating in space" width="400px"/>
-  
-  <br>
   
   <h3>👨‍🚀 currently...</h3>
   <p>
@@ -23,9 +17,7 @@
     🎮 <b>playing:</b> Sid Meier's Civilization VI<br>
     📺 <b>watching:</b> Formula 1 Drive to Survive
   </p>
-  
-  <br>
-  
+    
   ---
   
   <br>
