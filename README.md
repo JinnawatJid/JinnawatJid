@@ -1,4 +1,6 @@
-Hi there 👋
+<a href="https://github.com/JinnawatJid">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+JinnawatJid!+%F0%9F%91%8B;I'm+a+Full-Stack+Developer;...based+in+Thailand!;Welcome+to+my+Code-Space!" alt="Typing SVG" />
+</a>
 
 [![Jinnawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinnawatJid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinnawatJid&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
