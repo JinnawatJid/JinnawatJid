@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://webb.nasa.gov/contents/media/images/2022/031/01G77PKB8NKR0S411J3015GYX6" alt="James Webb Carina Nebula 'Cosmic Cliffs' Banner"/>
+  <img src="https://live.staticflickr.com/65535/52259221868_53dae692b6_h.jpg" alt="James Webb Carina Nebula 'Cosmic Cliffs' Banner"/>
   
   <br>
   
