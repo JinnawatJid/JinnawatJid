@@ -20,10 +20,10 @@
   
   <br>
   
-  <h3>📊 My Stats Dashboard</h3>
+<h3>📊 My Stats Dashboard</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=JinnawatJid&show_icons=true&theme=radical" alt="Jinnawat's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinnawatJid&layout=compact&theme=tokyonight" alt="Jinnawat's Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JinnawatJid&amp;show_icons=true&amp;theme=radical" alt="Jinnawat's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JinnawatJid&amp;layout=compact&amp;theme=tokyonight" alt="Jinnawat's Top Languages" />
   </p>
 
   <h3>🚀 My Rocket-Building Toolkit</h3>
