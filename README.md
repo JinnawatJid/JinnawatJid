@@ -13,12 +13,8 @@
     🎮 <b>playing:</b> Sid Meier's Civilization VI<br>
     📺 <b>watching:</b> Formula 1 Drive to Survive
   </p>
-
-  <br>
     
   ---
-  
-  <br>
   
 <h3>📊 My Stats Dashboard</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JinnawatJid&theme=radical&hide_border=false" alt="Jinnawat's Streak" />
