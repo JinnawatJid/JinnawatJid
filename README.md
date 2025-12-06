@@ -19,8 +19,6 @@
 <h3>📊 My Stats Dashboard</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JinnawatJid&theme=radical&hide_border=false" alt="Jinnawat's Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JinnawatJid&bg_color=141321&color=f8d847&line=fe428e&point=f8d847&area=true&hide_border=true" alt="Jinnawat's Activity Graph" />
-
 <img src="https://metrics.lecoq.io/JinnawatJid?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FBangkok" alt="Jinnawat's Metrics" />
 
   <h3>🚀 My Rocket-Building Toolkit</h3>
