@@ -19,6 +19,10 @@
 <h3>📊 My Stats Dashboard</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JinnawatJid&theme=radical&hide_border=false" alt="Jinnawat's Streak" />
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=JinnawatJid&theme=radical&no-frame=true&margin-w=15" alt="Jinnawat's Trophies" />
+</a>
+
   <h3>🚀 My Rocket-Building Toolkit</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=vue,vite,pinia,tailwind,express,nodejs,figma,firebase&perline=8" />
