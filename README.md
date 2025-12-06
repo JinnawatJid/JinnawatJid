@@ -21,10 +21,7 @@
   <br>
   
 <h3>📊 My Stats Dashboard</h3>
-  <p>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JinnawatJid&show_icons=true&theme=radical" alt="Jinnawat's GitHub Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=JinnawatJid&layout=compact&theme=tokyonight" alt="Jinnawat's Top Languages" />
-  </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JinnawatJid&theme=radical&hide_border=false" alt="Jinnawat's Streak" />
 
   <h3>🚀 My Rocket-Building Toolkit</h3>
   <p>
